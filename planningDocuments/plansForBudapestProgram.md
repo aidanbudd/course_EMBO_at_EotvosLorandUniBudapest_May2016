@@ -47,7 +47,16 @@
 
 **sequence alignments**; Toby, Marco, Scooter, Allegra
 
-## Dependencies
+## Planned changes to the program
+
+- Change the order of the 'story' - introducing networks early on. We know you can tell the story from both direction, let's try it from networks down this time
+    - we'll try listing the 'dependencies' of the different topic (see section below) to build a new flow of the topics - please add dependencies you see currently missing to the list
+- Drop Aidan's Day 1 introduction session, begin instead with Marco, who introduces many general topics
+- Start the first day with Linux commandline game described by Allegra. We've decided together that we will commit to teaching and using the Linux command line during our exercises, where possible using it in small ways to reinforce and help teach its value
+- Swap Day 2 'trainees work with own data' session with Day 4 unseminar session. In this way, they get to do the 'work with their own data' stuff once they've seen more of the differnet tools
+- People teaching related topics (see list above) agreed to make sure they work together to reduce redundancy and thus make the time spent teaching the topic less (we're keen to free up some time in the schedule).
+
+## Topic dependencies
 
 - PPI databases -> STRING
 - Electronic health records -> STRING
